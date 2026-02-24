@@ -4,3 +4,11 @@ __pycache__/
 .env
 output/
 .rate_limit_log
+
+# Python environments
+venv/
+
+# Credentials
+credentials.json
+token.json
+*.pickle
